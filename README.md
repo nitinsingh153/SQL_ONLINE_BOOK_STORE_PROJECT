@@ -54,4 +54,9 @@ Date-based analysis
 This project showcases practical SQL skills through a real-world dataset and highlights how data can be transformed into actionable insights using structured queries.
 
 
+Nitin Singh
+
+Aspiring Data Analyst | Excel | SQL | Power BI
+
+
 
